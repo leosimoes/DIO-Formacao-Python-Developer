@@ -5,7 +5,7 @@ Implementação dos Desafios de Projetos dos cursos da Formação Python Develop
 ## Projetos
 
 * Projeto 1 - Criando um Sistema Bancário com Python
-
+* Projeto 2 - Otimizando o Sistema Bancário com Funções Python
 
 ## Referências
 
